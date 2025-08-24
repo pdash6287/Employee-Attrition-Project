@@ -1,4 +1,5 @@
-[Untitled0 (1).ipynb](https://github.com/user-attachments/files/21955338/Untitled0.1.ipynb)
+[Untitled0 (2).ipynb](https://github.com/user-attachments/files/21955431/Untitled0.2.ipynb)
+
 # Employee Attrition Prediction – MBA Mini Project
 
 This project predicts employee attrition using Python, Pandas, scikit-learn, and Random Forest.
